@@ -1,0 +1,5 @@
+// fazer commit de alteações
+
+git add .
+git commit -m "Comentário"
+git push
